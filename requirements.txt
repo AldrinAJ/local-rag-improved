@@ -1,0 +1,14 @@
+streamlit==1.39.0
+sentence-transformers==3.1.1
+pypdf==6.0.0
+pypdf2==3.0.1
+pytesseract==0.3.13
+pillow==10.4.0
+opensearch-py==2.7.1
+torch==2.8.0
+numpy==2.1.2
+requests==2.32.4
+ollama==0.3.3
+werkzeug==3.0.6
+openai==1.54.4
+python-dotenv==1.0.0
